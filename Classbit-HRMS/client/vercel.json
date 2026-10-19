@@ -2,11 +2,11 @@
   "rewrites": [
     {
       "source": "/api/:path*",
-      "destination": "https://classbit-production-ready-backend.onrender.com/api/:path*"
+      "destination": "https://classbit-production-ready-odqp.onrender.com/api/:path*"
     },
     {
       "source": "/uploads/:path*",
-      "destination": "https://classbit-production-ready-backend.onrender.com/uploads/:path*"
+      "destination": "https://classbit-production-ready-odqp.onrender.com/uploads/:path*"
     },
     {
       "source": "/(.*)",
