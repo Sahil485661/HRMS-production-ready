@@ -1,14 +1,14 @@
-# 🌐 Classbit HRMS Portal
+# 🌐 HRMS Portal
 
-![Repo Size](https://img.shields.io/github/repo-size/Sahil485661/Classbit-HRMS-Portal?color=blue&style=for-the-badge)
-![Issues](https://img.shields.io/github/issues/Sahil485661/Classbit-HRMS-Portal?style=for-the-badge)
-![Stars](https://img.shields.io/github/stars/Sahil485661/Classbit-HRMS-Portal?style=for-the-badge)
-![Forks](https://img.shields.io/github/forks/Sahil485661/Classbit-HRMS-Portal?style=for-the-badge)
+![Repo Size](https://img.shields.io/github/repo-size/Sahil485661/HRMS-Portal?color=blue&style=for-the-badge)
+![Issues](https://img.shields.io/github/issues/Sahil485661/HRMS-Portal?style=for-the-badge)
+![Stars](https://img.shields.io/github/stars/Sahil485661/HRMS-Portal?style=for-the-badge)
+![Forks](https://img.shields.io/github/forks/Sahil485661/HRMS-Portal?style=for-the-badge)
 
 ---
 
 ## 📖 Overview
-**Classbit HRMS Portal** is a Human Resource Management System designed to help organizations manage employee information, attendance, grievances, and other HR processes.  
+**HRMS Portal** is a Human Resource Management System designed to help organizations manage employee information, attendance, grievances, and other HR processes.  
 It is built with **Node.js** and **PostgreSQL**, featuring a modern and user-friendly interface.
 
 ---
@@ -41,10 +41,10 @@ It is built with **Node.js** and **PostgreSQL**, featuring a modern and user-fri
 ### Installation
 ```bash
 # Clone the repository
-git clone https://github.com/Sahil485661/Classbit-HRMS-Portal.git
+git clone https://github.com/Sahil485661/HRMS-Portal.git
 
 # Navigate to project directory
-cd Classbit-HRMS-Portal
+cd HRMS-Portal
 
 # Install dependencies
 npm install
@@ -56,7 +56,7 @@ npm run dev
 ```
 ## Project Folder Structure
 ```
-Classbit-HRMS-Portal/
+HRMS-Portal/
 │── src/
 │   ├── routes/
 │   ├── models/
