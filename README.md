@@ -1,10 +1,5 @@
 # 🌐 HRMS Portal
 
-![Repo Size](https://img.shields.io/github/repo-size/Sahil485661/HRMS-Portal?color=blue&style=for-the-badge)
-![Issues](https://img.shields.io/github/issues/Sahil485661/HRMS-Portal?style=for-the-badge)
-![Stars](https://img.shields.io/github/stars/Sahil485661/HRMS-Portal?style=for-the-badge)
-![Forks](https://img.shields.io/github/forks/Sahil485661/HRMS-Portal?style=for-the-badge)
-
 ---
 
 ## 📖 Overview
