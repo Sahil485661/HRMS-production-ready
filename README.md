@@ -4,7 +4,7 @@
 
 ## 📖 Overview
 **HRMS Portal** is a Human Resource Management System designed to help organizations manage employee information, attendance, grievances, and other HR processes.  
-It is built with **Node.js** and **PostgreSQL**, featuring a modern and user-friendly interface.
+It is built with **Node.js** and **MySQL**, featuring a modern and user-friendly interface.
 
 ---
 
